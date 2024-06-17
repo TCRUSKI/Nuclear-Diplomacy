@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"GameEvents",
+  "%Name":"OBJ_Start_Button",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"GameEvents",
+  "name":"OBJ_Start_Button",
   "overriddenProperties":[],
   "parent":{
-    "name":"Nuclear Diplomacy",
-    "path":"Nuclear Diplomacy.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"NukeButton",
+    "path":"sprites/NukeButton/NukeButton.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
