@@ -1,0 +1,2 @@
+layer_sequence_pause(SQ_MissileFlight)
+layer_sequence_pause(SQ_NuclearExplosion)
