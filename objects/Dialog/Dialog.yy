@@ -9,8 +9,8 @@
   "name":"Dialog",
   "overriddenProperties":[],
   "parent":{
-    "name":"Nuclear Diplomacy",
-    "path":"Nuclear Diplomacy.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"UI_set_up4",
+    "path":"sprites/UI_set_up4/UI_set_up4.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

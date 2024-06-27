@@ -8,8 +8,8 @@
   "name":"GameEvents",
   "overriddenProperties":[],
   "parent":{
-    "name":"Nuclear Diplomacy",
-    "path":"Nuclear Diplomacy.yyp",
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
   },
   "parentObjectId":null,
   "persistent":false,
