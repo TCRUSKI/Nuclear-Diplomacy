@@ -27,4 +27,7 @@ global.dialog = [["Balgot and Shima Rengo did joint military training to practic
 [[""]],[[""]],[[""]]]
 ]
 
+
+
+
 global.current_dialog = global.dialog

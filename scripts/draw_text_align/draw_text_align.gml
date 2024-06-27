@@ -32,7 +32,6 @@ function draw_text_align(x, y, _text, _pixel_width, _font, _color){
 		else
 		{
 			_line = _words[i]
-			show_debug_message(_words[i])
 		}
 	}
 	if(_new_text != "")
