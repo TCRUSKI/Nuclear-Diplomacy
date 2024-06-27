@@ -35,6 +35,8 @@
     {"name":"EndingRoom","order":2,"path":"rooms/EndingRoom/EndingRoom.yy",},
     {"name":"rm_world_map","order":3,"path":"rooms/rm_world_map/rm_world_map.yy",},
     {"name":"StartGame","order":1,"path":"rooms/StartGame/StartGame.yy",},
+    {"name":"draw_text_align","order":2,"path":"scripts/draw_text_align/draw_text_align.yy",},
+    {"name":"get_aligned_text","order":3,"path":"scripts/get_aligned_text/get_aligned_text.yy",},
     {"name":"SQ_NuclearExplosion","order":1,"path":"sequences/SQ_NuclearExplosion/SQ_NuclearExplosion.yy",},
     {"name":"Balgot_Flag","order":9,"path":"sprites/Balgot_Flag/Balgot_Flag.yy",},
     {"name":"BigRedButton","order":2,"path":"sprites/BigRedButton/BigRedButton.yy",},

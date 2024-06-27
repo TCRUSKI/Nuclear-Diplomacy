@@ -54,6 +54,8 @@
     {"id":{"name":"EndingRoom","path":"rooms/EndingRoom/EndingRoom.yy",},},
     {"id":{"name":"rm_world_map","path":"rooms/rm_world_map/rm_world_map.yy",},},
     {"id":{"name":"StartGame","path":"rooms/StartGame/StartGame.yy",},},
+    {"id":{"name":"draw_text_align","path":"scripts/draw_text_align/draw_text_align.yy",},},
+    {"id":{"name":"get_aligned_text","path":"scripts/get_aligned_text/get_aligned_text.yy",},},
     {"id":{"name":"SQ_MissileFlight","path":"sequences/SQ_MissileFlight/SQ_MissileFlight.yy",},},
     {"id":{"name":"SQ_NuclearExplosion","path":"sequences/SQ_NuclearExplosion/SQ_NuclearExplosion.yy",},},
     {"id":{"name":"Balgot_Flag","path":"sprites/Balgot_Flag/Balgot_Flag.yy",},},
