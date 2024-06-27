@@ -8,6 +8,10 @@ function draw_text_align(x, y, _text, _pixel_width, _font, _color){
 	var _new_text = ""
 	for(i = 0; i < array_length(_words); i++)
 	{
+		if(_words[i] == "")
+		{
+			continue
+		}
 		if(string_width(_line + " " + _words[i]) >= _pixel_width)
 		{
 			if(_new_text != "")
@@ -21,9 +25,14 @@ function draw_text_align(x, y, _text, _pixel_width, _font, _color){
 				_line = _words[i]
 			}
 		}
-		else
+		else if(_line != "")
 		{
 			_line += " " + _words[i]
+		}
+		else
+		{
+			_line = _words[i]
+			show_debug_message(_words[i])
 		}
 	}
 	if(_new_text != "")

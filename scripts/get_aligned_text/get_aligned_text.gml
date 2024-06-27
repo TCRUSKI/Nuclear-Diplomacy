@@ -7,6 +7,10 @@ function get_aligned_text(_text, _pixel_width, _font){
 	var _new_text = ""
 	for(i = 0; i < array_length(_words); i++)
 	{
+		if(_words[i] == "")
+		{
+			continue
+		}
 		if(string_width(_line + " " + _words[i]) >= _pixel_width)
 		{
 			if(_new_text != "")
@@ -17,12 +21,15 @@ function get_aligned_text(_text, _pixel_width, _font){
 			else
 			{
 				_new_text += _line
-				_line = _words[i]
 			}
+		}
+		else if(_line != "")
+		{
+			_line += " " + _words[i]
 		}
 		else
 		{
-			_line += " " + _words[i]
+			_line = _words[i]
 		}
 	}
 	if(_new_text != "")
