@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"get_aligned_text",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_aligned_text",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
