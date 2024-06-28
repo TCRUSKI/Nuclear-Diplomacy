@@ -2,4 +2,4 @@
 // You can write your code in this editor
 draw_self()
 
-draw_text(50,50,"You pressured the world too much and got nuked in the process, game over.")
+draw_text_align(300, 100, global.current_dialog[0][0], 900, -1, c_white)
