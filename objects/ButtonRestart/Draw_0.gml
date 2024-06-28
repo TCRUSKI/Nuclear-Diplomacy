@@ -1,8 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
+draw_self()
 
-if(global.game_over){
-	draw_set_color(c_white);
-	draw_text(x,y-100,"Game Over!\nYou were nuked!");
-	draw_sprite(RestartSprite, RestartSprite, x,y);
-}
+draw_text_align(300, 100, global.current_dialog[0][0], 900, -1, c_white)
