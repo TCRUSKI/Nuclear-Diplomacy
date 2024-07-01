@@ -58,6 +58,7 @@
     {"name":"SquareCollision","order":14,"path":"sprites/SquareCollision/SquareCollision.yy",},
     {"name":"StartButton","order":3,"path":"sprites/StartButton/StartButton.yy",},
     {"name":"TempCityScape","order":5,"path":"sprites/TempCityScape/TempCityScape.yy",},
+    {"name":"troopsAtBorder","order":23,"path":"sprites/troopsAtBorder/troopsAtBorder.yy",},
     {"name":"UI_Character_Portrait","order":19,"path":"sprites/UI_Character_Portrait/UI_Character_Portrait.yy",},
     {"name":"UI_Dialogue","order":17,"path":"sprites/UI_Dialogue/UI_Dialogue.yy",},
     {"name":"UI_FriendlyGauge","order":21,"path":"sprites/UI_FriendlyGauge/UI_FriendlyGauge.yy",},

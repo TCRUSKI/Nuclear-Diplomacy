@@ -79,6 +79,7 @@
     {"id":{"name":"SquareCollision","path":"sprites/SquareCollision/SquareCollision.yy",},},
     {"id":{"name":"StartButton","path":"sprites/StartButton/StartButton.yy",},},
     {"id":{"name":"TempCityScape","path":"sprites/TempCityScape/TempCityScape.yy",},},
+    {"id":{"name":"troopsAtBorder","path":"sprites/troopsAtBorder/troopsAtBorder.yy",},},
     {"id":{"name":"UI_Character_Portrait","path":"sprites/UI_Character_Portrait/UI_Character_Portrait.yy",},},
     {"id":{"name":"UI_Dialogue","path":"sprites/UI_Dialogue/UI_Dialogue.yy",},},
     {"id":{"name":"UI_FriendlyGauge","path":"sprites/UI_FriendlyGauge/UI_FriendlyGauge.yy",},},
