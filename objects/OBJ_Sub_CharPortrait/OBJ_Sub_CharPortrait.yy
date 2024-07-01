@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Dialog",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"OBJ_Sub_CharPortrait",
+  "eventList":[],
   "managed":true,
-  "name":"Dialog",
+  "name":"OBJ_Sub_CharPortrait",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"UI_Dialogue",
-    "path":"sprites/UI_Dialogue/UI_Dialogue.yy",
+    "name":"UI_Character_Portrait",
+    "path":"sprites/UI_Character_Portrait/UI_Character_Portrait.yy",
   },
   "spriteMaskId":null,
   "visible":true,
