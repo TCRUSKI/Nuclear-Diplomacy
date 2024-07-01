@@ -3,6 +3,8 @@
 function draw_text_align(x, y, _text, _pixel_width, _font, _color){
 	draw_set_font(_font)
 	draw_set_color(_color)
+	draw_set_halign(fa_left)
+	draw_set_valign(fa_top)
 	var _words = string_split(_text, " ")
 	var _line = ""
 	var _new_text = ""
