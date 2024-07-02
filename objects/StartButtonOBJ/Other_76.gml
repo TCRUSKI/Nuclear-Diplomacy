@@ -6,5 +6,5 @@ if event_data[? "message"] == "explosion"
 
 if event_data[? "message"] == "ExplosionEnd"
 {
-	room_goto(DialogRoom)
+	room_goto(DescriptionRoom)
 }
