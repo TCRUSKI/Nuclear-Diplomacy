@@ -1,0 +1,1 @@
+layer_sequence_pause(SQ_MissileFlight_Enemy)
