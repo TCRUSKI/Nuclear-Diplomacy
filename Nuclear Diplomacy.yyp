@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.0.157",
   },
   "name":"Nuclear Diplomacy",
   "resources":[
@@ -67,6 +67,8 @@
     {"id":{"name":"get_aligned_text","path":"scripts/get_aligned_text/get_aligned_text.yy",},},
     {"id":{"name":"SQ_MissileFlight","path":"sequences/SQ_MissileFlight/SQ_MissileFlight.yy",},},
     {"id":{"name":"SQ_NuclearExplosion","path":"sequences/SQ_NuclearExplosion/SQ_NuclearExplosion.yy",},},
+    {"id":{"name":"Anchor_Female","path":"sprites/Anchor_Female/Anchor_Female.yy",},},
+    {"id":{"name":"Anchor_Male","path":"sprites/Anchor_Male/Anchor_Male.yy",},},
     {"id":{"name":"Balgot_Character","path":"sprites/Balgot_Character/Balgot_Character.yy",},},
     {"id":{"name":"Balgot_Flag","path":"sprites/Balgot_Flag/Balgot_Flag.yy",},},
     {"id":{"name":"BigRedButton","path":"sprites/BigRedButton/BigRedButton.yy",},},
@@ -78,6 +80,7 @@
     {"id":{"name":"ButtonSquare","path":"sprites/ButtonSquare/ButtonSquare.yy",},},
     {"id":{"name":"ButtonSquareOutline","path":"sprites/ButtonSquareOutline/ButtonSquareOutline.yy",},},
     {"id":{"name":"Missile","path":"sprites/Missile/Missile.yy",},},
+    {"id":{"name":"News_Podium","path":"sprites/News_Podium/News_Podium.yy",},},
     {"id":{"name":"NRB_Flag","path":"sprites/NRB_Flag/NRB_Flag.yy",},},
     {"id":{"name":"NuclearExplosion","path":"sprites/NuclearExplosion/NuclearExplosion.yy",},},
     {"id":{"name":"NuclearHazardSymbol","path":"sprites/NuclearHazardSymbol/NuclearHazardSymbol.yy",},},
