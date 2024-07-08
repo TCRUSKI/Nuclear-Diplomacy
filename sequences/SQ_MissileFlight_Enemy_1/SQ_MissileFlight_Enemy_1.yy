@@ -1,6 +1,6 @@
 {
   "$GMSequence":"",
-  "%Name":"SQ_MissileFlight_Enemy",
+  "%Name":"SQ_MissileFlight_Enemy_1",
   "autoRecord":false,
   "backdropHeight":768,
   "backdropImageOpacity":0.5,
@@ -13,9 +13,9 @@
     "Keyframes":[
       {"$Keyframe<MessageEventKeyframe>":"","Channels":{
           "0":{"$MessageEventKeyframe":"","Events":[
-              "explosion",
+              "explosion_1",
             ],"resourceType":"MessageEventKeyframe","resourceVersion":"2.0",},
-        },"Disabled":false,"id":"c6b29855-c092-48e1-9bc5-3b10b2a18c8a","IsCreationKey":false,"Key":59.0,"Length":1.0,"resourceType":"Keyframe<MessageEventKeyframe>","resourceVersion":"2.0","Stretch":false,},
+        },"Disabled":false,"id":"e6cbd13b-c984-4710-8e7b-4db7e415caa6","IsCreationKey":false,"Key":59.0,"Length":1.0,"resourceType":"Keyframe<MessageEventKeyframe>","resourceVersion":"2.0","Stretch":false,},
     ],
     "resourceType":"KeyframeStore<MessageEventKeyframe>",
     "resourceVersion":"2.0",
@@ -30,7 +30,7 @@
     "resourceType":"KeyframeStore<MomentsEventKeyframe>",
     "resourceVersion":"2.0",
   },
-  "name":"SQ_MissileFlight_Enemy",
+  "name":"SQ_MissileFlight_Enemy_1",
   "parent":{
     "name":"Sequences",
     "path":"folders/Sequences.yy",
