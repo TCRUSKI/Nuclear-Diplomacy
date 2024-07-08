@@ -7,8 +7,8 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_39A2DAEA","path":"rooms/StartGame/StartGame.yy",},
-    {"name":"inst_1F86D8A3","path":"rooms/StartGame/StartGame.yy",},
     {"name":"inst_316A5E06","path":"rooms/StartGame/StartGame.yy",},
+    {"name":"inst_4C3A38A4","path":"rooms/StartGame/StartGame.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -18,8 +18,8 @@
       ],"depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Sequences","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Startbutton","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"","%Name":"inst_39A2DAEA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_39A2DAEA","objectId":{"name":"StartButtonOBJ","path":"objects/StartButtonOBJ/StartButtonOBJ.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.5000005,"scaleY":3.545455,"x":480.0,"y":448.0,},
-        {"$GMRInstance":"","%Name":"inst_1F86D8A3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1F86D8A3","objectId":{"name":"GameEvents","path":"objects/GameEvents/GameEvents.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
         {"$GMRInstance":"","%Name":"inst_316A5E06","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_316A5E06","objectId":{"name":"StartButtonHover","path":"objects/StartButtonHover/StartButtonHover.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.953125,"scaleY":3.640625,"x":480.0,"y":448.0,},
+        {"$GMRInstance":"","%Name":"inst_4C3A38A4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4C3A38A4","objectId":{"name":"Quit","path":"objects/Quit/Quit.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
       ],"layers":[],"name":"Startbutton","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"StartButton_CityBackground","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_3982B682","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_3982B682","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0636945,"scaleY":0.7473798,"spriteId":{"name":"TempCityScape","path":"sprites/TempCityScape/TempCityScape.yy",},"x":0.0,"y":0.0,},
