@@ -43,7 +43,7 @@
   "showBackdrop":true,
   "showBackdropImage":false,
   "spriteId":null,
-  "timeUnits":1,
+  "timeUnits":0,
   "tracks":[
     {"$GMInstanceTrack":"","%Name":"MissileOBJ","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<AssetInstanceKeyframe>":"","Keyframes":[
           {"$Keyframe<AssetInstanceKeyframe>":"","Channels":{

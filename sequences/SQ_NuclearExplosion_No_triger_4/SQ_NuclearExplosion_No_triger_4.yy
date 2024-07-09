@@ -1,6 +1,6 @@
 {
   "$GMSequence":"",
-  "%Name":"SQ_NuclearExplosion_No_triger_2",
+  "%Name":"SQ_NuclearExplosion_No_triger_4",
   "autoRecord":true,
   "backdropHeight":768,
   "backdropImageOpacity":0.5,
@@ -24,7 +24,7 @@
     "resourceType":"KeyframeStore<MomentsEventKeyframe>",
     "resourceVersion":"2.0",
   },
-  "name":"SQ_NuclearExplosion_No_triger_2",
+  "name":"SQ_NuclearExplosion_No_triger_4",
   "parent":{
     "name":"Sequences",
     "path":"folders/Sequences.yy",
