@@ -3,3 +3,5 @@ timer_active = true;
 
 //makes button invisible
 visible = false
+
+global.nuked = true

@@ -16,7 +16,7 @@ else if(room == EndingRoom){
 	global.current_dialog = global.dialog
 	room_goto(DialogRoom)
 }
-else if(room == DialogRoom){
+else if(room == DialogRoom and !global.nuked){
 	global.current_dialog = global.dialog
 	room_goto(StartGame)
 }

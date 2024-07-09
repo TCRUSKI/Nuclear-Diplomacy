@@ -2,7 +2,7 @@
 // You can write your code in this editor
 draw_self()
 
-if(mouse_hover)
+if(mouse_hover and !global.nuked)
 {
 	draw_set_color(c_black)
 	draw_rectangle(x,y,x + sprite_width,y + sprite_height, true)

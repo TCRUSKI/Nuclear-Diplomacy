@@ -1,4 +1,6 @@
 //Create Event of an object
+global.nuked = false
+
 my_timer = 9000000; // 7 seconds in microseconds
 timer_active = false;
 
