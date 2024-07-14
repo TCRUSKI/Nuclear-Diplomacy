@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite38",
-    "path":"sprites/Sprite38/Sprite38.yy",
+    "name":"NewsMale",
+    "path":"sprites/NewsMale/NewsMale.yy",
   },
   "spriteMaskId":null,
   "visible":true,
