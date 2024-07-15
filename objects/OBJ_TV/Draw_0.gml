@@ -3,7 +3,9 @@
 
 draw_self()
 
-draw_text_align(300, 30, global.current_dialog[0][0], 900, -1, c_white)
-draw_text_align(300, 150, global.current_dialog[0][1], 900, -1, c_white)
-draw_text_align(300, 270, global.current_dialog[0][2], 900, -1, c_white)
-draw_text_align(300, 390, global.current_dialog[0][3], 900, -1, c_white)
+var _text = get_aligned_text(global.current_dialog[0][0], sprite_width-80, tv_font)
+draw_set_halign(fa_center)
+draw_set_valign(fa_middle)
+draw_set_color(c_white)
+draw_set_font(tv_font)
+draw_text(x + sprite_width/2,y-20 + sprite_height/2, _text)

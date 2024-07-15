@@ -21,6 +21,7 @@ function get_aligned_text(_text, _pixel_width, _font){
 			else
 			{
 				_new_text += _line
+				_line = _words[i]
 			}
 		}
 		else if(_line != "")
@@ -42,6 +43,5 @@ function get_aligned_text(_text, _pixel_width, _font){
 		_new_text += _line
 		_line = ""
 	}
-	draw_text(x, y, _new_text)
 	return _new_text
 }
