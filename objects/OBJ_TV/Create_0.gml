@@ -5,4 +5,6 @@ if(!variable_global_exists("dialog")){
 
 
 	global.current_dialog = global.dialog
+	
+	global.dialog_option = 0
 }

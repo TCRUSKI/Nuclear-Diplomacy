@@ -9,7 +9,7 @@ draw_rectangle(x+2,y+2,x-2 + sprite_width,y-2 + sprite_height, true)
 draw_rectangle(x+3,y+3,x-3 + sprite_width,y-3 + sprite_height, true)
 draw_set_color(c_gray)
 draw_rectangle(x+4,y+4,x-4 + sprite_width, y-4 + sprite_height, false)
-draw_text_align(x+10,y+10, current_display, sprite_width-20, -1, c_white)
+draw_text_align(x+10,y+10, current_display, sprite_width-20, news_font, c_white)
 
 frame_index = frame_index + 1
 if((frame_index > 4 and !finished) or (sped_up and !finished)){

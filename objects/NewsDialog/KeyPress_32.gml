@@ -4,7 +4,13 @@ if(finished){
 	sentence_index = sentence_index + 1
 	if(sentence_index >= array_length(sentences))
 	{
-		sentence_index = sentence_index - 1
+		if(global.dialog_option == 0){
+			room_goto(DialogRoom)
+		}
+		else{
+			global.current_dialog = global.dialog
+			room_goto(StartGame)
+		}
 	}
 	else
 	{
