@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"OBJ_TV",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"OBJ_Window",
+  "eventList":[],
   "managed":true,
-  "name":"OBJ_TV",
+  "name":"OBJ_Window",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"UI_TV",
-    "path":"sprites/UI_TV/UI_TV.yy",
+    "name":"UI_Window",
+    "path":"sprites/UI_Window/UI_Window.yy",
   },
   "spriteMaskId":null,
   "visible":true,
