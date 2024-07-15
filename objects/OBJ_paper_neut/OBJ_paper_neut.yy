@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"options",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"OBJ_paper_neut",
+  "eventList":[],
   "managed":true,
-  "name":"options",
+  "name":"OBJ_paper_neut",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",

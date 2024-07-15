@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"OBJ_paper",
+  "%Name":"OBJ_paper_neg",
   "eventList":[],
   "managed":true,
-  "name":"OBJ_paper",
+  "name":"OBJ_paper_neg",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"UI_Paper",
-    "path":"sprites/UI_Paper/UI_Paper.yy",
+    "name":"UI_Paper_neg",
+    "path":"sprites/UI_Paper_neg/UI_Paper_neg.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"options",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"OBJ_paper_pos",
+  "eventList":[],
   "managed":true,
-  "name":"options",
+  "name":"OBJ_paper_pos",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"UI_Paper_neut",
-    "path":"sprites/UI_Paper_neut/UI_Paper_neut.yy",
+    "name":"UI_Paper_pos",
+    "path":"sprites/UI_Paper_pos/UI_Paper_pos.yy",
   },
   "spriteMaskId":null,
   "visible":true,
