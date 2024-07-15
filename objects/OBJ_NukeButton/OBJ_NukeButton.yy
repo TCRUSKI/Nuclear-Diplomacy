@@ -2,7 +2,10 @@
   "$GMObject":"",
   "%Name":"OBJ_NukeButton",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":76,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"OBJ_NukeButton",
@@ -30,12 +33,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"UI_NukeButton",
-    "path":"sprites/UI_NukeButton/UI_NukeButton.yy",
+    "name":"UI_NukeButton_Pixil",
+    "path":"sprites/UI_NukeButton_Pixil/UI_NukeButton_Pixil.yy",
   },
-  "spriteMaskId":{
-    "name":"BigRedButton",
-    "path":"sprites/BigRedButton/BigRedButton.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }

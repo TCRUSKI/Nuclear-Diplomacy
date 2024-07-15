@@ -1,10 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"Dialog",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"Dialog",
   "overriddenProperties":[],
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"UI_set_up4",
-    "path":"sprites/UI_set_up4/UI_set_up4.yy",
+    "name":"UI_Desk",
+    "path":"sprites/UI_Desk/UI_Desk.yy",
   },
   "spriteMaskId":null,
   "visible":true,
