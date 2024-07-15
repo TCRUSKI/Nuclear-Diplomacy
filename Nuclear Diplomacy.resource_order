@@ -125,7 +125,7 @@
     {"name":"UI_NukeButton","order":19,"path":"sprites/UI_NukeButton/UI_NukeButton.yy",},
     {"name":"UI_Paper","order":38,"path":"sprites/UI_Paper/UI_Paper.yy",},
     {"name":"UI_PlayerChar","order":45,"path":"sprites/UI_PlayerChar/UI_PlayerChar.yy",},
-    {"name":"UI_TV","order":40,"path":"sprites/UI_TV/UI_TV.yy",},
+    {"name":"UI_TV","order":49,"path":"sprites/UI_TV/UI_TV.yy",},
     {"name":"UI_Window","order":41,"path":"sprites/UI_Window/UI_Window.yy",},
     {"name":"WorldMap","order":8,"path":"sprites/WorldMap/WorldMap.yy",},
     {"name":"yes_sprite","order":48,"path":"sprites/yes_sprite/yes_sprite.yy",},
