@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"OBJ_TV",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_ornament",
+  "eventList":[],
   "managed":true,
-  "name":"OBJ_TV",
+  "name":"obj_ornament",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"UI_TV",
-    "path":"sprites/UI_TV/UI_TV.yy",
+    "name":"Ornament",
+    "path":"sprites/Ornament/Ornament.yy",
   },
   "spriteMaskId":null,
   "visible":true,
