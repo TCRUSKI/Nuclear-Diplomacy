@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite39",
-    "path":"sprites/Sprite39/Sprite39.yy",
+    "name":"NewsPodium",
+    "path":"sprites/NewsPodium/NewsPodium.yy",
   },
   "spriteMaskId":null,
   "visible":true,

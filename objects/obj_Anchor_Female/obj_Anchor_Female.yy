@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Anchor_Female",
-    "path":"sprites/Anchor_Female/Anchor_Female.yy",
+    "name":"NewsFemale",
+    "path":"sprites/NewsFemale/NewsFemale.yy",
   },
   "spriteMaskId":null,
   "visible":true,

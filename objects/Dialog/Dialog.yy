@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"UI_Dialogue",
-    "path":"sprites/UI_Dialogue/UI_Dialogue.yy",
+    "name":"UI_Desk",
+    "path":"sprites/UI_Desk/UI_Desk.yy",
   },
   "spriteMaskId":null,
   "visible":true,

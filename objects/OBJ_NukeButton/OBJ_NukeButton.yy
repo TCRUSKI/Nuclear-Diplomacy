@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"UI_NukeButton",
-    "path":"sprites/UI_NukeButton/UI_NukeButton.yy",
+    "name":"UI_NukeButton_Pixil",
+    "path":"sprites/UI_NukeButton_Pixil/UI_NukeButton_Pixil.yy",
   },
   "spriteMaskId":null,
   "visible":true,
