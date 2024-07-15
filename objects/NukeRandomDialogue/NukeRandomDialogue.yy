@@ -1,11 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"options",
+  "%Name":"NukeRandomDialogue",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":76,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"options",
+  "name":"NukeRandomDialogue",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"UI_Paper",
-    "path":"sprites/UI_Paper/UI_Paper.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
