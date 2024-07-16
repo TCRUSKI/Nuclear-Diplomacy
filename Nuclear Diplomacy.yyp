@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.1.160",
+    "IDEVersion":"2024.6.0.157",
   },
   "name":"Nuclear Diplomacy",
   "resources":[
@@ -61,6 +61,7 @@
     {"id":{"name":"obj_Bratva_Character","path":"objects/obj_Bratva_Character/obj_Bratva_Character.yy",},},
     {"id":{"name":"obj_description","path":"objects/obj_description/obj_description.yy",},},
     {"id":{"name":"obj_desk_NoMic","path":"objects/obj_desk_NoMic/obj_desk_NoMic.yy",},},
+    {"id":{"name":"obj_Encyclopedia","path":"objects/obj_Encyclopedia/obj_Encyclopedia.yy",},},
     {"id":{"name":"obj_flag_Balgot","path":"objects/obj_flag_Balgot/obj_flag_Balgot.yy",},},
     {"id":{"name":"obj_flag_Bratva","path":"objects/obj_flag_Bratva/obj_flag_Bratva.yy",},},
     {"id":{"name":"obj_flag_NRB","path":"objects/obj_flag_NRB/obj_flag_NRB.yy",},},
@@ -123,6 +124,7 @@
     {"id":{"name":"ButtonSquareOutline","path":"sprites/ButtonSquareOutline/ButtonSquareOutline.yy",},},
     {"id":{"name":"Circle","path":"sprites/Circle/Circle.yy",},},
     {"id":{"name":"DeskSprite_NoMic","path":"sprites/DeskSprite_NoMic/DeskSprite_NoMic.yy",},},
+    {"id":{"name":"Encyclopedia","path":"sprites/Encyclopedia/Encyclopedia.yy",},},
     {"id":{"name":"GeneralRohTopDown","path":"sprites/GeneralRohTopDown/GeneralRohTopDown.yy",},},
     {"id":{"name":"MapMonitor","path":"sprites/MapMonitor/MapMonitor.yy",},},
     {"id":{"name":"Missile","path":"sprites/Missile/Missile.yy",},},
