@@ -2,6 +2,6 @@
 // You can write your code in this editor
 global.nuked = false
 
-globalvar nuketimer;
+globalvar nuketimer
 
-global.nuketimer = false;
+global.nuketimer = false
