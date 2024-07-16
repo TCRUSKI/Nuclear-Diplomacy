@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.1.160",
+    "IDEVersion":"2024.6.0.157",
   },
   "name":"Nuclear Diplomacy",
   "resources":[
@@ -59,6 +59,7 @@
     {"id":{"name":"obj_Anchor_Male","path":"objects/obj_Anchor_Male/obj_Anchor_Male.yy",},},
     {"id":{"name":"obj_Balgot_Character","path":"objects/obj_Balgot_Character/obj_Balgot_Character.yy",},},
     {"id":{"name":"obj_Bratva_Character","path":"objects/obj_Bratva_Character/obj_Bratva_Character.yy",},},
+    {"id":{"name":"obj_clock","path":"objects/obj_clock/obj_clock.yy",},},
     {"id":{"name":"obj_description","path":"objects/obj_description/obj_description.yy",},},
     {"id":{"name":"obj_desk_NoMic","path":"objects/obj_desk_NoMic/obj_desk_NoMic.yy",},},
     {"id":{"name":"obj_Encyclopedia","path":"objects/obj_Encyclopedia/obj_Encyclopedia.yy",},},
@@ -126,6 +127,7 @@
     {"id":{"name":"ButtonSquare","path":"sprites/ButtonSquare/ButtonSquare.yy",},},
     {"id":{"name":"ButtonSquareOutline","path":"sprites/ButtonSquareOutline/ButtonSquareOutline.yy",},},
     {"id":{"name":"Circle","path":"sprites/Circle/Circle.yy",},},
+    {"id":{"name":"Clock","path":"sprites/Clock/Clock.yy",},},
     {"id":{"name":"DeskSprite_NoMic","path":"sprites/DeskSprite_NoMic/DeskSprite_NoMic.yy",},},
     {"id":{"name":"Encyclopedia","path":"sprites/Encyclopedia/Encyclopedia.yy",},},
     {"id":{"name":"GeneralRohTopDown","path":"sprites/GeneralRohTopDown/GeneralRohTopDown.yy",},},
