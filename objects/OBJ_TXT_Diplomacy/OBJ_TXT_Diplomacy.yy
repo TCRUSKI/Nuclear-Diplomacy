@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"StartButtonOBJ",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"OBJ_TXT_Diplomacy",
+  "eventList":[],
   "managed":true,
-  "name":"StartButtonOBJ",
+  "name":"OBJ_TXT_Diplomacy",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"TXT_Launch",
-    "path":"sprites/TXT_Launch/TXT_Launch.yy",
+    "name":"TXT_Diplomacy",
+    "path":"sprites/TXT_Diplomacy/TXT_Diplomacy.yy",
   },
   "spriteMaskId":null,
   "visible":true,
