@@ -56,5 +56,5 @@ if event_data[? "message"] == "player_explosion3"
 if event_data[? "message"] == "ExplosionEnd"
 {
 	global.passed_dialog = "You pressed the Big Red Button, and now have to deal with the consequences of your actions."
-	room_goto(EndingRoom)
+	room_goto(NewsRoom)
 }

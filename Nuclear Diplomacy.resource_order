@@ -53,6 +53,7 @@
     {"name":"OBJ_MissilePlayer","order":33,"path":"objects/OBJ_MissilePlayer/OBJ_MissilePlayer.yy",},
     {"name":"obj_News_Podium","order":34,"path":"objects/obj_News_Podium/obj_News_Podium.yy",},
     {"name":"OBJ_NukeButton","order":15,"path":"objects/OBJ_NukeButton/OBJ_NukeButton.yy",},
+    {"name":"OBJ_NukeDialogue","order":51,"path":"objects/OBJ_NukeDialogue/OBJ_NukeDialogue.yy",},
     {"name":"obj_ornament","order":45,"path":"objects/obj_ornament/obj_ornament.yy",},
     {"name":"OBJ_paper_neg","order":48,"path":"objects/OBJ_paper_neg/OBJ_paper_neg.yy",},
     {"name":"OBJ_paper_neut","order":40,"path":"objects/OBJ_paper_neut/OBJ_paper_neut.yy",},

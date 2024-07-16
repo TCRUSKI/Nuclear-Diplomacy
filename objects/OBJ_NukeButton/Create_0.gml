@@ -1,5 +1,6 @@
 //Create Event of an object
-global.nuked = false
+
+
 
 my_timer = 9000000; // 7 seconds in microseconds
 timer_active = false;
@@ -48,3 +49,16 @@ layer_sequence_pause(player_nuclear_explosion2)
 
 layer_sequence_pause(player_missle3)
 layer_sequence_pause(player_nuclear_explosion3)
+
+if global.nuketimer = true {
+//Unused in current iteration Timer moved to Create Event-----
+
+//Playing Sequences on Left Click via timer in step----
+timer_active = true;
+
+//makes button invisible----
+//visible = false
+
+//Moved to Dialogue Nuke Button---
+//global.nuked = true
+}
