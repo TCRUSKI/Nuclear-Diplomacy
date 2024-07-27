@@ -1,6 +1,6 @@
 {
   "$GMSequence":"",
-  "%Name":"SQ_NuclearExplosion_No_triger_2",
+  "%Name":"SQ_NuclearExplosion_TriggerLeft",
   "autoRecord":true,
   "backdropHeight":768,
   "backdropImageOpacity":0.5,
@@ -10,7 +10,13 @@
   "backdropYOffset":0.0,
   "events":{
     "$KeyframeStore<MessageEventKeyframe>":"",
-    "Keyframes":[],
+    "Keyframes":[
+      {"$Keyframe<MessageEventKeyframe>":"","Channels":{
+          "0":{"$MessageEventKeyframe":"","Events":[
+              "CityDestroyLeft",
+            ],"resourceType":"MessageEventKeyframe","resourceVersion":"2.0",},
+        },"Disabled":false,"id":"632c4423-56c2-4b97-9dd2-daa57cfc50d9","IsCreationKey":false,"Key":59.9999,"Length":1.0,"resourceType":"Keyframe<MessageEventKeyframe>","resourceVersion":"2.0","Stretch":false,},
+    ],
     "resourceType":"KeyframeStore<MessageEventKeyframe>",
     "resourceVersion":"2.0",
   },
@@ -24,7 +30,7 @@
     "resourceType":"KeyframeStore<MomentsEventKeyframe>",
     "resourceVersion":"2.0",
   },
-  "name":"SQ_NuclearExplosion_No_triger_2",
+  "name":"SQ_NuclearExplosion_TriggerLeft",
   "parent":{
     "name":"Sequences",
     "path":"folders/Sequences.yy",
