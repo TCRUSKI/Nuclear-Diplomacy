@@ -51,6 +51,11 @@ if event_data[? "message"] == "player_explosion3"
 	show_debug_message("PlayerNukeplaynDestroyMiss3")
 }
 
+/*if event_data[? "message"] == "DestroyMainBuilding"
+{
+	image_alpha
+}*/
+
 //End Event on Final Explosion
 
 if event_data[? "message"] == "ExplosionEnd"

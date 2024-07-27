@@ -78,7 +78,7 @@
     {"name":"StartGame","order":1,"path":"rooms/StartGame/StartGame.yy",},
     {"name":"draw_text_align","order":2,"path":"scripts/draw_text_align/draw_text_align.yy",},
     {"name":"get_aligned_text","order":3,"path":"scripts/get_aligned_text/get_aligned_text.yy",},
-    {"name":"NukeCitySequence","order":16,"path":"sequences/NukeCitySequence/NukeCitySequence.yy",},
+    {"name":"NukeSequencemoving_NotUsed","order":16,"path":"sequences/NukeSequencemoving_NotUsed/NukeSequencemoving_NotUsed.yy",},
     {"name":"PaperMovingSprite","order":14,"path":"sequences/PaperMovingSprite/PaperMovingSprite.yy",},
     {"name":"SQ_Missile_Player_1","order":8,"path":"sequences/SQ_Missile_Player_1/SQ_Missile_Player_1.yy",},
     {"name":"SQ_Missile_Player_2","order":9,"path":"sequences/SQ_Missile_Player_2/SQ_Missile_Player_2.yy",},

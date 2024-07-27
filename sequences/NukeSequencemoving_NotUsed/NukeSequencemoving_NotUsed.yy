@@ -1,6 +1,6 @@
 {
   "$GMSequence":"",
-  "%Name":"NukeCitySequence",
+  "%Name":"NukeSequencemoving_NotUsed",
   "autoRecord":true,
   "backdropHeight":768,
   "backdropImageOpacity":0.5,
@@ -24,7 +24,7 @@
     "resourceType":"KeyframeStore<MomentsEventKeyframe>",
     "resourceVersion":"2.0",
   },
-  "name":"NukeCitySequence",
+  "name":"NukeSequencemoving_NotUsed",
   "parent":{
     "name":"Sequences",
     "path":"folders/Sequences.yy",
