@@ -20,8 +20,8 @@
     {"name":"inst_21928067","path":"rooms/DialogRoom/DialogRoom.yy",},
     {"name":"inst_3931F93","path":"rooms/DialogRoom/DialogRoom.yy",},
     {"name":"inst_22DFB535","path":"rooms/DialogRoom/DialogRoom.yy",},
-    {"name":"inst_6D48D7A1","path":"rooms/DialogRoom/DialogRoom.yy",},
     {"name":"inst_1512F758","path":"rooms/DialogRoom/DialogRoom.yy",},
+    {"name":"inst_6D48D7A1","path":"rooms/DialogRoom/DialogRoom.yy",},
   ],
   "isDnd":false,
   "layers":[

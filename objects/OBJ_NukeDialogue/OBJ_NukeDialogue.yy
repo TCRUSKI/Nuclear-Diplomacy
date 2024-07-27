@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"UI_NukeButton_Pixil",
-    "path":"sprites/UI_NukeButton_Pixil/UI_NukeButton_Pixil.yy",
+    "name":"UI_NukeButton_Pixil_NukeSign",
+    "path":"sprites/UI_NukeButton_Pixil_NukeSign/UI_NukeButton_Pixil_NukeSign.yy",
   },
   "spriteMaskId":null,
   "visible":true,
