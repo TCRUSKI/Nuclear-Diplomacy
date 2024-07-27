@@ -11,12 +11,8 @@ draw_set_color(c_gray)
 draw_rectangle(x+4,y+4,x-4 + sprite_width, y-4 + sprite_height, false)
 draw_text_align(x+10,y+10, current_display, sprite_width-20, news_font, c_white)
 
-
-if(frame_index - 32 <= 0){
-	draw_text_align(x+sprite_width * 2/5, y+sprite_height-20, "Press Spacebar to Continue", sprite_width-20, -1, c_white)
-}
 frame_index = frame_index + 1
-if((frame_index % 4 == 0 and !finished) or (sped_up and !finished)){
+if((frame_index > 4 and !finished) or (sped_up and !finished)){
 	current_display = string_concat(current_display, string_char_at(sentences[sentence_index], word_index))
 	word_index = word_index + 1
 	if(word_index > string_length(sentences[sentence_index]) and sentence_index < array_length(sentences) - 1){
@@ -31,9 +27,5 @@ if((frame_index % 4 == 0 and !finished) or (sped_up and !finished)){
 			finished = true
 		}
 	}
-}
-
-if(frame_index == 64)
-{
 	frame_index = 0
 }
