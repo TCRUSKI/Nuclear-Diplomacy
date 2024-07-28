@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"UI_Paper_neut",
   "bboxMode":0,
-  "bbox_bottom":27,
+  "bbox_bottom":55,
   "bbox_left":0,
-  "bbox_right":21,
+  "bbox_right":43,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":28,
+  "height":56,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"1f3e0ad6-f385-4215-9196-7521d7d238c8","blendMode":0,"displayName":"Layer 2","isLocked":false,"name":"1f3e0ad6-f385-4215-9196-7521d7d238c8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -88,5 +88,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":22,
+  "width":44,
 }

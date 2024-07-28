@@ -15,7 +15,7 @@ my_missile2 = layer_sequence_create("Sequences_DLG", 94, 32, SQ_MissileFlight_En
 my_nuclear_explosion2 = layer_sequence_create("Sequences_DLG", 224, 548, SQ_NuclearExplosion_TriggerLeft)
 
 my_missile3 = layer_sequence_create("Sequences_DLG", 608, -96, SQ_MissileFlight_Enemy_3)
-my_nuclear_explosion3 = layer_sequence_create("Sequences_DLG", 692, 381, SQ_NuclearExplosion)
+my_nuclear_explosion3 = layer_sequence_create("Sequences_BigNuke", 692, 389, SQ_NuclearExplosion)
 
 //Player Nukes
 
