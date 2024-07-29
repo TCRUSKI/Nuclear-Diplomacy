@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Snd_ClockSound",
+  "%Name":"Snd_ClockSoundSlow",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":4.897958,
-  "name":"Snd_ClockSound",
+  "duration":6.530625,
+  "name":"Snd_ClockSoundSlow",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Snd_ClockSound.ogg",
+  "soundFile":"Snd_ClockSoundSlow.ogg",
   "type":0,
   "volume":0.1,
 }
