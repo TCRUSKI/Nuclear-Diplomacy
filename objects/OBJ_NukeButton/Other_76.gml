@@ -59,5 +59,6 @@ if event_data[? "message"] == "player_explosion3"
 if event_data[? "message"] == "ExplosionEnd"
 {
 	global.passed_dialog = "A global panic ensues as fallout rains down from the sky, killing crops and causing killing innocent bystanders due to radiation poisoning. However you arent alive to even see it."
+	global.dialog_option = 1
 	room_goto(NewsRoom)
 }
