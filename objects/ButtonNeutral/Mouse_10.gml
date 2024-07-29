@@ -3,3 +3,5 @@
 mouse_hover = true
 
 layer_sequence_play(my_paper_middle)
+
+audio_play_sound(Snd_PaperSlide, 0, false)

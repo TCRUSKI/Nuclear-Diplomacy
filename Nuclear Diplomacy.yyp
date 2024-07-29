@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.6.1.160",
   },
   "name":"Nuclear Diplomacy",
   "resources":[
@@ -125,7 +125,9 @@
     {"id":{"name":"SQ_Paper_Moving_Middle","path":"sequences/SQ_Paper_Moving_Middle/SQ_Paper_Moving_Middle.yy",},},
     {"id":{"name":"SQ_PaperMovingRight","path":"sequences/SQ_PaperMovingRight/SQ_PaperMovingRight.yy",},},
     {"id":{"name":"SQ_StartAnimation","path":"sequences/SQ_StartAnimation/SQ_StartAnimation.yy",},},
+    {"id":{"name":"Snd_ClockSound","path":"sounds/Snd_ClockSound/Snd_ClockSound.yy",},},
     {"id":{"name":"Snd_MainSadSound","path":"sounds/Snd_MainSadSound/Snd_MainSadSound.yy",},},
+    {"id":{"name":"Snd_PaperSlide","path":"sounds/Snd_PaperSlide/Snd_PaperSlide.yy",},},
     {"id":{"name":"Art_troopsAtBorder","path":"sprites/Art_troopsAtBorder/Art_troopsAtBorder.yy",},},
     {"id":{"name":"Balgot_Character","path":"sprites/Balgot_Character/Balgot_Character.yy",},},
     {"id":{"name":"Balgot_Flag","path":"sprites/Balgot_Flag/Balgot_Flag.yy",},},
