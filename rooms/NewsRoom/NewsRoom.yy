@@ -12,7 +12,6 @@
     {"name":"inst_4E889173","path":"rooms/NewsRoom/NewsRoom.yy",},
     {"name":"inst_52AFC337","path":"rooms/NewsRoom/NewsRoom.yy",},
     {"name":"inst_713315AA","path":"rooms/NewsRoom/NewsRoom.yy",},
-    {"name":"inst_71146920","path":"rooms/NewsRoom/NewsRoom.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -24,7 +23,6 @@
         {"$GMRInstance":"v1","%Name":"inst_4E889173","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4E889173","objectId":{"name":"obj_News_Podium","path":"objects/obj_News_Podium/obj_News_Podium.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":5.0,"x":256.0,"y":256.0,},
         {"$GMRInstance":"v1","%Name":"inst_52AFC337","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_52AFC337","objectId":{"name":"obj_News_Podium","path":"objects/obj_News_Podium/obj_News_Podium.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":5.0,"x":832.0,"y":256.0,},
         {"$GMRInstance":"v1","%Name":"inst_713315AA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_713315AA","objectId":{"name":"obj_desk_NoMic","path":"objects/obj_desk_NoMic/obj_desk_NoMic.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.0,"scaleY":5.0,"x":512.0,"y":256.0,},
-        {"$GMRInstance":"v1","%Name":"inst_71146920","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_71146920","objectId":{"name":"ButtonMapBack","path":"objects/ButtonMapBack/ButtonMapBack.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1248.0,"y":512.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
