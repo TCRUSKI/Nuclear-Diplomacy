@@ -18,6 +18,7 @@ if event_data[? "message"]== "explosion_2"
 	layer_sequence_play(my_nuclear_explosion2)
 	layer_sequence_destroy(my_missile2)
 	show_debug_message("enemyNukeplaynDestroyMiss2")
+
 	
 }
 if event_data[? "message"] == "explosion_3"
@@ -49,12 +50,15 @@ if event_data[? "message"] == "player_explosion3"
 	layer_sequence_play(player_nuclear_explosion3)
 	layer_sequence_destroy(player_missle3)
 	show_debug_message("PlayerNukeplaynDestroyMiss3")
+
 }
+
 
 //End Event on Final Explosion
 
 if event_data[? "message"] == "ExplosionEnd"
 {
-	global.passed_dialog = "You pressed the Big Red Button, and now have to deal with the consequences of your actions."
+	global.passed_dialog = "A global panic ensues as fallout rains down from the sky, killing crops and causing killing innocent bystanders due to radiation poisoning. However you arent alive to even see it."
+	global.dialog_option = 1
 	room_goto(NewsRoom)
 }

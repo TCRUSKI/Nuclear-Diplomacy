@@ -9,8 +9,12 @@ else if(room == NewsRoom){
 	}
 	else{
 		global.current_dialog = global.dialog
-		room_goto(StartGame)
+		room_goto(CreditsRoom)
 	}
+}
+else if(room == CreditsRoom)
+{
+	room_goto(StartGame)
 }
 else if(room == rm_world_map){
 	room_goto(DialogRoom)

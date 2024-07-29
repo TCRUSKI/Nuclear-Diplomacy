@@ -9,7 +9,7 @@ if(finished){
 		}
 		else{
 			global.current_dialog = global.dialog
-			room_goto(StartGame)
+			room_goto(CreditsRoom)
 		}
 	}
 	else
