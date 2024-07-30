@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"UI_Paper_pos",
-    "path":"sprites/UI_Paper_pos/UI_Paper_pos.yy",
+    "name":"UI_Paper_1",
+    "path":"sprites/UI_Paper_1/UI_Paper_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

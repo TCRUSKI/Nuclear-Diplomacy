@@ -198,6 +198,8 @@
     {"id":{"name":"UI_NukeButton_Pixil_NukeSign","path":"sprites/UI_NukeButton_Pixil_NukeSign/UI_NukeButton_Pixil_NukeSign.yy",},},
     {"id":{"name":"UI_NukeButton_Pixil","path":"sprites/UI_NukeButton_Pixil/UI_NukeButton_Pixil.yy",},},
     {"id":{"name":"UI_NukeButton","path":"sprites/UI_NukeButton/UI_NukeButton.yy",},},
+    {"id":{"name":"UI_Paper_1","path":"sprites/UI_Paper_1/UI_Paper_1.yy",},},
+    {"id":{"name":"UI_Paper_2","path":"sprites/UI_Paper_2/UI_Paper_2.yy",},},
     {"id":{"name":"UI_Paper_neg","path":"sprites/UI_Paper_neg/UI_Paper_neg.yy",},},
     {"id":{"name":"UI_Paper_neut","path":"sprites/UI_Paper_neut/UI_Paper_neut.yy",},},
     {"id":{"name":"UI_Paper_pos","path":"sprites/UI_Paper_pos/UI_Paper_pos.yy",},},

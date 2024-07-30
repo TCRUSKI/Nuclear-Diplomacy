@@ -174,6 +174,8 @@
     {"name":"UI_NukeButton_Pixil_NukeSign","order":60,"path":"sprites/UI_NukeButton_Pixil_NukeSign/UI_NukeButton_Pixil_NukeSign.yy",},
     {"name":"UI_NukeButton_Pixil","order":42,"path":"sprites/UI_NukeButton_Pixil/UI_NukeButton_Pixil.yy",},
     {"name":"UI_NukeButton","order":19,"path":"sprites/UI_NukeButton/UI_NukeButton.yy",},
+    {"name":"UI_Paper_1","order":69,"path":"sprites/UI_Paper_1/UI_Paper_1.yy",},
+    {"name":"UI_Paper_2","order":68,"path":"sprites/UI_Paper_2/UI_Paper_2.yy",},
     {"name":"UI_Paper_neg","order":51,"path":"sprites/UI_Paper_neg/UI_Paper_neg.yy",},
     {"name":"UI_Paper_neut","order":38,"path":"sprites/UI_Paper_neut/UI_Paper_neut.yy",},
     {"name":"UI_Paper_pos","order":50,"path":"sprites/UI_Paper_pos/UI_Paper_pos.yy",},
