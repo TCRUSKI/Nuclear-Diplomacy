@@ -29,6 +29,10 @@ if(time_since == -1){
 		finished = true
 		sound_paused = true
 		audio_stop_sound(sound_id)
+		obj_Anchor_Female.image_speed = 0
+		obj_Anchor_Female.image_index = 0
+		obj_Anchor_Male.image_speed = 0
+		obj_Anchor_Male.image_index = 0
 		current_display = sentences[sentence_index]
 		if(sentence_index < array_length(sentences) - 1){
 			current_display = string_concat(current_display, ".")
