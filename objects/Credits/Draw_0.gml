@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-var _text = "Producer/Artist/Designer/Secondary engineer: Garret White\nWritter/Designer/Secondary Artist: Jiwon Miki Shin\nSecondary Audio Engineer: Yingjie Chen\nSoftware Engineer/Code Design/QA: Eddie Overbay \nAudioEngeneer: Brady Hession \n\n Audio from public doamin library :Snd_NewsRoomIntro, Snd_Explosion, Snd_MissileSound"
+var _text = "Producer/Artist/Designer/Secondary engineer: Garret White\nWriter/Designer/Secondary Artist: Jiwon Miki Shin\nSecondary Audio Engineer: Yingjie Chen\nSoftware Engineer/Code Design/QA: Eddie Overbay \nAudioEngeneer: Brady Hession \n\n Audio from public doamin library :Snd_NewsRoomIntro, Snd_Explosion, Snd_MissileSound"
 
 draw_set_halign(fa_center)
 draw_set_valign(fa_middle)
