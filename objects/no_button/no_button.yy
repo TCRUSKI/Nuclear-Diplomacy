@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"no_sprite",
-    "path":"sprites/no_sprite/no_sprite.yy",
+    "name":"StampVeto",
+    "path":"sprites/StampVeto/StampVeto.yy",
   },
   "spriteMaskId":null,
   "visible":true,

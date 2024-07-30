@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"yes_sprite",
-    "path":"sprites/yes_sprite/yes_sprite.yy",
+    "name":"StampApprove",
+    "path":"sprites/StampApprove/StampApprove.yy",
   },
   "spriteMaskId":null,
   "visible":true,

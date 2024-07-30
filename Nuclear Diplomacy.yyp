@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.6.1.160",
   },
   "name":"Nuclear Diplomacy",
   "resources":[
@@ -189,6 +189,8 @@
     {"id":{"name":"Sprite50","path":"sprites/Sprite50/Sprite50.yy",},},
     {"id":{"name":"SquareCollision_1","path":"sprites/SquareCollision_1/SquareCollision_1.yy",},},
     {"id":{"name":"SquareCollision","path":"sprites/SquareCollision/SquareCollision.yy",},},
+    {"id":{"name":"StampApprove","path":"sprites/StampApprove/StampApprove.yy",},},
+    {"id":{"name":"StampVeto","path":"sprites/StampVeto/StampVeto.yy",},},
     {"id":{"name":"StartButton","path":"sprites/StartButton/StartButton.yy",},},
     {"id":{"name":"TempCityScape","path":"sprites/TempCityScape/TempCityScape.yy",},},
     {"id":{"name":"TXT_Diplomacy","path":"sprites/TXT_Diplomacy/TXT_Diplomacy.yy",},},

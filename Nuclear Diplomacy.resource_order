@@ -166,6 +166,8 @@
     {"name":"Sprite50","order":1,"path":"sprites/Sprite50/Sprite50.yy",},
     {"name":"SquareCollision_1","order":25,"path":"sprites/SquareCollision_1/SquareCollision_1.yy",},
     {"name":"SquareCollision","order":14,"path":"sprites/SquareCollision/SquareCollision.yy",},
+    {"name":"StampApprove","order":73,"path":"sprites/StampApprove/StampApprove.yy",},
+    {"name":"StampVeto","order":74,"path":"sprites/StampVeto/StampVeto.yy",},
     {"name":"StartButton","order":4,"path":"sprites/StartButton/StartButton.yy",},
     {"name":"TempCityScape","order":6,"path":"sprites/TempCityScape/TempCityScape.yy",},
     {"name":"TXT_Diplomacy","order":56,"path":"sprites/TXT_Diplomacy/TXT_Diplomacy.yy",},
