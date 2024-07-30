@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"Snd_ClockSoundSlow.ogg",
   "type":0,
-  "volume":0.1,
+  "volume":0.4,
 }
