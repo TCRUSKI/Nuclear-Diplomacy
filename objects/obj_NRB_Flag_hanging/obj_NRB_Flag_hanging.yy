@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"OBJ_paper_neut",
+  "%Name":"obj_NRB_Flag_hanging",
   "eventList":[],
   "managed":true,
-  "name":"OBJ_paper_neut",
+  "name":"obj_NRB_Flag_hanging",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"UI_Paper_2",
-    "path":"sprites/UI_Paper_2/UI_Paper_2.yy",
+    "name":"NRB_Flag_Hanging",
+    "path":"sprites/NRB_Flag_Hanging/NRB_Flag_Hanging.yy",
   },
   "spriteMaskId":null,
   "visible":true,

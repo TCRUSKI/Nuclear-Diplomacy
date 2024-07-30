@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"OBJ_paper_neut",
+  "%Name":"obj_NewsRoomBackground",
   "eventList":[],
   "managed":true,
-  "name":"OBJ_paper_neut",
+  "name":"obj_NewsRoomBackground",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"UI_Paper_2",
-    "path":"sprites/UI_Paper_2/UI_Paper_2.yy",
+    "name":"NewsRoomBackground",
+    "path":"sprites/NewsRoomBackground/NewsRoomBackground.yy",
   },
   "spriteMaskId":null,
   "visible":true,

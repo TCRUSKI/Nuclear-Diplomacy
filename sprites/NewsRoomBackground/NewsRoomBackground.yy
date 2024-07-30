@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
-  "%Name":"UI_Paper",
+  "%Name":"NewsRoomBackground",
   "bboxMode":0,
-  "bbox_bottom":27,
+  "bbox_bottom":767,
   "bbox_left":0,
-  "bbox_right":21,
+  "bbox_right":1365,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,18 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"f608f67e-6a12-4540-98e8-78a77d2e3ebe","name":"f608f67e-6a12-4540-98e8-78a77d2e3ebe","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"c3a7d4b7-f8eb-4900-9c49-267dd4c75ab6","name":"c3a7d4b7-f8eb-4900-9c49-267dd4c75ab6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":28,
+  "height":768,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"5bf93962-c2c0-4e74-80cf-ca0f7f8c8893","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"5bf93962-c2c0-4e74-80cf-ca0f7f8c8893","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"1f3e0ad6-f385-4215-9196-7521d7d238c8","blendMode":0,"displayName":"Layer 2","isLocked":false,"name":"1f3e0ad6-f385-4215-9196-7521d7d238c8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"12098103-fef9-47d0-8569-59a0877230f5","blendMode":0,"displayName":"default","isLocked":false,"name":"12098103-fef9-47d0-8569-59a0877230f5","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"11546785-2af8-418d-bd30-eaca5ce255bf","blendMode":0,"displayName":"default","isLocked":false,"name":"11546785-2af8-418d-bd30-eaca5ce255bf","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"UI_Paper",
+  "name":"NewsRoomBackground",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -35,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"UI_Paper",
+    "%Name":"NewsRoomBackground",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -59,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"UI_Paper",
+    "name":"NewsRoomBackground",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -71,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f608f67e-6a12-4540-98e8-78a77d2e3ebe","path":"sprites/UI_Paper/UI_Paper.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"cb7f25a7-937a-4e87-a265-3cf75e0537b0","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c3a7d4b7-f8eb-4900-9c49-267dd4c75ab6","path":"sprites/NewsRoomBackground/NewsRoomBackground.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"549e1405-7f09-4967-8b56-01429a0eb3b6","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -88,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":22,
+  "width":1366,
 }

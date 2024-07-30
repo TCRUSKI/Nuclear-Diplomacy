@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"OBJ_paper_neut",
+  "%Name":"obj_TV_sprite",
   "eventList":[],
   "managed":true,
-  "name":"OBJ_paper_neut",
+  "name":"obj_TV_sprite",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"UI_Paper_2",
-    "path":"sprites/UI_Paper_2/UI_Paper_2.yy",
+    "name":"UI_TV",
+    "path":"sprites/UI_TV/UI_TV.yy",
   },
   "spriteMaskId":null,
   "visible":true,
