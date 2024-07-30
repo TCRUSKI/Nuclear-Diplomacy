@@ -9,6 +9,7 @@ if event_data[? "message"] == "explosion_1"
 	//explosionarray[0] = true;
 	layer_sequence_play(my_nuclear_explosion1)
 	layer_sequence_destroy(my_missile1)
+	audio_play_sound(Snd_ExplosionSound, 0, false)
 	show_debug_message("enemyNukeplaynDestroyMiss1")
 	
 }
@@ -17,6 +18,7 @@ if event_data[? "message"]== "explosion_2"
 	//explosionarray[1] = true;
 	layer_sequence_play(my_nuclear_explosion2)
 	layer_sequence_destroy(my_missile2)
+	audio_play_sound(Snd_ExplosionSound, 0, false)
 	show_debug_message("enemyNukeplaynDestroyMiss2")
 
 	
@@ -26,6 +28,7 @@ if event_data[? "message"] == "explosion_3"
 	//explosionarray[2] = true;
 	layer_sequence_play(my_nuclear_explosion3)
 	layer_sequence_destroy(my_missile3)
+	audio_play_sound(Snd_ExplosionSoundLoud, 0, false)
 	show_debug_message("enemyNukeplaynDestroyMiss3")
 	
 }
@@ -34,6 +37,7 @@ if event_data[? "message"] == "player_explosion1"
 	//explosionarray[3] = true;
 	layer_sequence_play(player_nuclear_explosion1)
 	layer_sequence_destroy(player_missle1)
+	audio_play_sound(Snd_ExplosionSound, 0, false)
 	show_debug_message("PlayerNukeplaynDestroyMiss1")
 }
 if event_data[? "message"] == "player_explosion2"
@@ -41,6 +45,7 @@ if event_data[? "message"] == "player_explosion2"
 	//explosionarray[4] = true;
 	layer_sequence_play(player_nuclear_explosion2)
 	layer_sequence_destroy(player_missle2)
+	audio_play_sound(Snd_ExplosionSound, 0, false)
 	show_debug_message("PlayeraynDestroyMiss2")
 	
 }
@@ -49,6 +54,7 @@ if event_data[? "message"] == "player_explosion3"
 	//explosionarray[5] = true;
 	layer_sequence_play(player_nuclear_explosion3)
 	layer_sequence_destroy(player_missle3)
+	audio_play_sound(Snd_ExplosionSound, 0, false)
 	show_debug_message("PlayerNukeplaynDestroyMiss3")
 
 }

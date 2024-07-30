@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.0.157",
+    "IDEVersion":"2024.6.1.160",
   },
   "name":"Nuclear Diplomacy",
   "resources":[
@@ -132,9 +132,12 @@
     {"id":{"name":"SQ_StartAnimation","path":"sequences/SQ_StartAnimation/SQ_StartAnimation.yy",},},
     {"id":{"name":"Snd_ClockSound","path":"sounds/Snd_ClockSound/Snd_ClockSound.yy",},},
     {"id":{"name":"Snd_ClockSoundSlow","path":"sounds/Snd_ClockSoundSlow/Snd_ClockSoundSlow.yy",},},
+    {"id":{"name":"Snd_ExplosionSound","path":"sounds/Snd_ExplosionSound/Snd_ExplosionSound.yy",},},
+    {"id":{"name":"Snd_ExplosionSoundLoud","path":"sounds/Snd_ExplosionSoundLoud/Snd_ExplosionSoundLoud.yy",},},
     {"id":{"name":"Snd_FemaleNews","path":"sounds/Snd_FemaleNews/Snd_FemaleNews.yy",},},
     {"id":{"name":"Snd_MainSadSound","path":"sounds/Snd_MainSadSound/Snd_MainSadSound.yy",},},
     {"id":{"name":"Snd_MaleNews","path":"sounds/Snd_MaleNews/Snd_MaleNews.yy",},},
+    {"id":{"name":"Snd_MissileSound","path":"sounds/Snd_MissileSound/Snd_MissileSound.yy",},},
     {"id":{"name":"Snd_NewsRoomIntro","path":"sounds/Snd_NewsRoomIntro/Snd_NewsRoomIntro.yy",},},
     {"id":{"name":"Snd_PaperSlide","path":"sounds/Snd_PaperSlide/Snd_PaperSlide.yy",},},
     {"id":{"name":"Art_troopsAtBorder","path":"sprites/Art_troopsAtBorder/Art_troopsAtBorder.yy",},},
