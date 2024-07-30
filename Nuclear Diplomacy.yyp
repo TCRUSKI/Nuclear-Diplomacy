@@ -35,6 +35,7 @@
   "name":"Nuclear Diplomacy",
   "resources":[
     {"id":{"name":"dialog_font","path":"fonts/dialog_font/dialog_font.yy",},},
+    {"id":{"name":"file_font","path":"fonts/file_font/file_font.yy",},},
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
     {"id":{"name":"news_font","path":"fonts/news_font/news_font.yy",},},
     {"id":{"name":"tv_font","path":"fonts/tv_font/tv_font.yy",},},

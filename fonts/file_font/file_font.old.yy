@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"dialog_font",
+  "%Name":"file_font",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":34,
@@ -9,7 +9,7 @@
   "canGenerateBitmap":true,
   "charset":0,
   "first":0,
-  "fontName":"Times New Roman",
+  "fontName":"Agency FB",
   "glyphOperations":0,
   "glyphs":{
     "32":{"character":32,"h":41,"offset":0,"shift":7,"w":7,"x":2,"y":2,},
@@ -117,7 +117,7 @@
   "last":0,
   "lineHeight":41,
   "maintainGms1Font":false,
-  "name":"dialog_font",
+  "name":"file_font",
   "parent":{
     "name":"Fonts",
     "path":"folders/Fonts.yy",
